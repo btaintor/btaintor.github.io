@@ -11,7 +11,8 @@
 }
 
 #indexbg {
-	width = 30%;
+	position: right top;
+	width = 70%;
 	height = 100%;
 	min-width = 30%;
 }
