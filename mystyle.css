@@ -43,7 +43,8 @@ a.Links:hover {
 
 .name {
 	color: black;
-	text-align: center;
+	text-align: left;
+	text-indent: 10mm;
 	text-decoration: none;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 250%;
