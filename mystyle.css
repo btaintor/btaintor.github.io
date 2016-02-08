@@ -1,3 +1,5 @@
 #biobackground{
-	background-image: url("gale.jpg");
+	/*background-image: url("gale.jpg");
+	*/
+	background-color:red;
 }
