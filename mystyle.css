@@ -1,7 +1,7 @@
 #biobackground{
 	background-image: url("gale.jpg");
 	width: 100%;
-	background-size: contain;
+	background-size: cover;
 
 	/*background-color:red;*/
 }
