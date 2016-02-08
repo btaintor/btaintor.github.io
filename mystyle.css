@@ -8,5 +8,7 @@
 #indexbackground{
 	background-image: url("index.jpg");
 	max-width: 50%;
+	max-height: 100%;
+	height:100%;
     
 }
