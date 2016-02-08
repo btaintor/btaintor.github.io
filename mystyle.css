@@ -27,13 +27,13 @@ html,body {height: 100%; margin: 0;}
 a.Links:link, a.Links:visited {
  color: black;
  text-decoration: none;
- text-align: center;
+ text-align: left;
  font-family: "Times New Roman", Times, serif;
  font-size: 225%;
 }
 a.Links:hover {
  color: #E77A00;
- text-align: center;
+ text-align: left;
  font-family: "Times New Roman", Times, serif;
  font-size: 230%;
 }
@@ -42,7 +42,7 @@ a.Links:hover {
 
 .name {
 	color: black;
-	text-align: center;
+	text-align: left;
 	text-decoration: none;
 	font-family: "Times New Roman", Times, serif;
 	font-size: 250%;
@@ -54,7 +54,7 @@ a.Links:hover {
 #image{
 	width: 120%;
 	height: 100%;
-	
+	position: center;
 	min-height: 100%;
 	background-image: url("newindex.jpg");
 }
