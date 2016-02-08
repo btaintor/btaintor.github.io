@@ -1,7 +1,7 @@
 #biobackground{
 	background-image: url("gale.jpg");
 	width: 100%;
-	height: cover;
+	height: 100%;
 
 	/*background-color:red;*/
 }
@@ -9,5 +9,5 @@
 #indexbackground{
 	background-image: url("index.jpg");
 	width: 100%;
-	height: cover;
+	height: 100%;
 }
