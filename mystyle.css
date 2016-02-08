@@ -1,22 +1,14 @@
 #biobackground{
+	background-image: url("gale.jpg");
 	max-width: 100%;
     height: auto;
-    width: auto
-	background-image: url("gale.jpg");
-	/*max-width: 100%;
-	height: auto;
-	/*background-size: cover;
-
-	/*background-color:red;*/
+    width: auto;
+	
 }
 
 #indexbackground{
+	background-image: url("index.jpg");
 	max-width: 100%;
     height: auto;
-    width: auto
-	background-image: url("index.jpg");
-	/*
-	max-width: 100%;
-	height: auto;
-	/*background-size: cover;*/
+    width: auto;
 }
