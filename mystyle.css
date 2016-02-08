@@ -29,11 +29,13 @@ a.Links:link, a.Links:visited {
  text-decoration: none;
  text-align: center;
  font-family: "Times New Roman", Times, serif;
+ font-size: 48;
 }
 a.Links:hover {
  color: #E77A00;
  text-align: center;
  font-family: "Times New Roman", Times, serif;
+ font-size: 48;
 }
 
 
@@ -43,7 +45,7 @@ a.Links:hover {
 	text-align: center;
 	text-decoration: none;
 	font-family: "Times New Roman", Times, serif;
-	font-size: 48;
+	font-size: 64;
 }
 
 .center{text-align: center;}
