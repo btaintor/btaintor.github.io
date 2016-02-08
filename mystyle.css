@@ -52,7 +52,7 @@ a.Links:hover {
 
 
 #image{
-	width: 120%;
+	width: cover;
 	height: 100%;
 	position: center;
 	min-height: 100%;
