@@ -25,13 +25,23 @@ html,body {height: 100%; margin: 0;}
 	font-family: font-family: "Avant Garde", Times, serif;
 }
 
-.resume p{
+.resume h4 p{
+	text-align: left;
+	text-indent: 15mm;
+	font-size: 100%;
+	font-family: font-family: "Avant Garde", Times, serif;
+}
+
+
+
+
+/*.resume p{
 	text-align: left;
 	text-indent: 15mm;
 	font-size: 100%;
 	font-family: font-family: "Avant Garde", Times, serif;
 
-}
+}*/
 
 .bio {
 	width: 100%;
