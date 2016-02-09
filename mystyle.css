@@ -10,8 +10,7 @@ html,body {height: 100%; margin: 0;}
 	height: 30%;
 	min-height: 30%;
 	float: right;
-	background-color: blue;
-	/*background-color: transparent;*/
+	background-color: transparent;
 	font-size: 100%;
 }
 
