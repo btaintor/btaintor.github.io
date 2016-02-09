@@ -55,6 +55,7 @@ a.Links:hover {
 	border-radius: 100px;
 	position: center;
 	background-color: red;
+	margin: 0 auto;
 }
 
 #indeximage{
