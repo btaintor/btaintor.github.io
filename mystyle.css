@@ -50,9 +50,9 @@ a.Links:hover {
 .center{text-align: center;}
 
 .circular{
-	width: 25%;
-	height: 25%;
-	border-radius: 12.5%;
+	width: 200px;
+	height: 200px;
+	border-radius: 100px;
 	position: center;
 	background-color: red;
 }
