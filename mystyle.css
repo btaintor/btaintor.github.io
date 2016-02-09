@@ -49,7 +49,7 @@ a.Links:hover {
 
 #bioimage{
 	width: 150%;
-	height: 150%;
+	height: 100%;
 	position: center;
 	min-height: 100%;
 	background-image: url("gale.jpg");
