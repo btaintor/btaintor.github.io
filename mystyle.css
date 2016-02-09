@@ -8,7 +8,7 @@ html,body {height: 100%; margin: 0;}
 #bio {
 	width: 100%;
 	height: 100%;
-	background-color: red;
+	background-color: transparent;
 }
 
 #menu {
@@ -46,7 +46,15 @@ a.Links:hover {
 
 .center{text-align: center;}
 
-#image{
+#bioimage{
+	width: 150%;
+	height: 150%;
+	position: center;
+	min-height: 100%;
+	background-image: url("gale.jpg");
+}
+
+#indeximage{
 	width: 150%;
 	height: 100%;
 	position: center;
