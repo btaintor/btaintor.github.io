@@ -50,14 +50,10 @@ a.Links:hover {
 
 .center{text-align: center;}
 
-.circular{
-	width: 200px;
-	height: 200px;
-	border-radius: 100px;
-	position: center;
-	background-color: red;
-	margin: 0 auto;
+#biobg{
+	background-image: url("renan.jpg");
 }
+
 
 #indeximage{
 	width: 100%;
