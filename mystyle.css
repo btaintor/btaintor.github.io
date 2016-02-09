@@ -52,6 +52,7 @@ a.Links:hover {
 
 #biobg{
 	background-image: url("arches.jpg");
+	height: 100%;
 	background-size: 100%;
 	background-repeat: no-repeat;
 }
