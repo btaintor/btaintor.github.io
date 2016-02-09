@@ -18,6 +18,21 @@ html,body {height: 100%; margin: 0;}
 	font-family: font-family: "Avant Garde", Times, serif;
 }
 
+.resume h3{
+	text-align: left;
+	text-indent: 15mm;
+	font-size: 125%;
+	font-family: font-family: "Avant Garde", Times, serif;
+}
+
+.resume p{
+	text-align: left;
+	text-indent: 15mm;
+	font-size: 100%;
+	font-family: font-family: "Avant Garde", Times, serif;
+
+}
+
 .bio {
 	width: 100%;
 	height: 30%;
