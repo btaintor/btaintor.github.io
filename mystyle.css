@@ -8,8 +8,10 @@ html,body {height: 100%; margin: 0;}
 #bio {
 	width: 100%;
 	height: 30%;
-	float: left;
+	min-height: 30%;
+	float: right;
 	background-color: transparent;
+	font-size: 100%;
 }
 
 #menu {
